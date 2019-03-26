@@ -1,0 +1,2 @@
+sflat.Y_ORIGIN = 1
+sflat.BLOCKS = "superflat:bedrock=1,default:stone=300,default:dirt=6,default:dirt_with_grass=1"
